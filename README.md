@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-![Dinty1's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs&theme=dark)
+![Dinty1's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dinty1&hide=contribs,prs&theme=dark)
